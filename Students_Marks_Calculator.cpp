@@ -1,8 +1,6 @@
 #include <iostream>
 #include <string>
-
 using namespace std;
-
 int main() {
     string name;
     int marks[5];
@@ -10,7 +8,6 @@ int main() {
     float percentage;
 
     cout << "===== Student Marks Calculator =====" << endl;
-
     cout << "Enter student name: ";
         cin >> name;
 
